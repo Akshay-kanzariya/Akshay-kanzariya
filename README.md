@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay-kanzariya
 - 👀 I’m interested in learning web development.
 - 🌱 I’m currently learning MERN stack development.
-- 📫 How to reach me at my email - akshaykanzariya123@gmail.com
+- 📫 Reach me at my email - akshaykanzariya123@gmail.com
 
 <!---
 Akshay-kanzariya/Akshay-kanzariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
