@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-kanzariya
 - 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning MERN stack development.
+- 🌱 I’m currently learning FrontEnd Web Development.
 - 📫 Reach me at my email - akshaykanzariya123@gmail.com
 
 <!---
